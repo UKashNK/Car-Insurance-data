@@ -7,7 +7,7 @@ Project 4
     
     The data has 19 features.
     
-    There are ... rows in the dataset.
+    There are 10,000 rows in the dataset.
     
     Opportunities for Dimensionality reduction.
     - Age and Driving experience
