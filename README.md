@@ -1,9 +1,9 @@
 # Car-Insurance-data
 Project 4
 
-    The target is income class.
+    The target is outcome of the claim.
     
-    One row represents a person.
+    One row represents a claim.
     
     The data has 19 features.
     
